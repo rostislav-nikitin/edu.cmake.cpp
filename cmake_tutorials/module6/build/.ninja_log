@@ -1,0 +1,15 @@
+# ninja log v5
+1	28	1656854680814785938	my_math/CMakeFiles/my_math.dir/src/addition.cpp.o	ed690d6c8cd8d4a3
+1	29	1656854680815785948	my_math/CMakeFiles/my_math.dir/src/division.cpp.o	aeac87dbe15084aa
+499	565	1656854681349791006	my_print/libmy_print.a	b0f12d463afab56b
+29	106	1656854680890786658	my_math/libmy_math.a	19c0d8c2b26ef9c
+2	497	1656854681283790381	my_print/CMakeFiles/my_print.dir/src/print_result.cpp.o	fb16698752dc274d
+0	505	1656854681291790457	CMakeFiles/calculator.dir/main.cpp.o	a9dbcfd54a93c560
+565	640	1656854681424791716	calculator	7f1a07065b9735ac
+1	28	1656854722966185184	my_math/CMakeFiles/my_math.dir/src/addition.cpp.o	ed690d6c8cd8d4a3
+2	32	1656854722970185222	my_math/CMakeFiles/my_math.dir/src/division.cpp.o	aeac87dbe15084aa
+33	94	1656854723031185800	my_math/libmy_math.a	19c0d8c2b26ef9c
+2	418	1656854723355188869	my_print/CMakeFiles/my_print.dir/src/print_result.cpp.o	fb16698752dc274d
+1	429	1656854723366188973	CMakeFiles/calculator.dir/main.cpp.o	a9dbcfd54a93c560
+418	486	1656854723422189503	my_print/libmy_print.a	b0f12d463afab56b
+486	561	1656854723497190214	calculator	7f1a07065b9735ac
